@@ -1,4 +1,16 @@
 {
-  "101": { "title": "Mangalavaaram", "desc": "Maaya becomes the new sub-inspector of a village gripped by mysterious murders. But as she begins to investigate, she uncovers a web of dark truths and conspiracies.", "poster": "https://i.postimg.cc/j5qtGhsG/mangalavaaram-et00358028-1699603527.jpg", "type": "embed", "url": "https://www.youtube.com/embed/vyQa5s9Vnrg" },
-  "movie2": { "title": "Jawan", "desc": "Action", "poster": "link2.jpg", "type": "hls", "url": "..." }
+  "101": { 
+    "title": "Mangalavaaram", 
+    "desc": "Maaya becomes the new sub-inspector...", 
+    "poster": "https://i.postimg.cc/j5qtGhsG/mangalavaaram-et00358028-1699603527.jpg", 
+    "type": "embed", 
+    "url": "https://www.youtube.com/embed/vyQa5s9Vnrg" 
+  },
+  "movie2": { 
+    "title": "Jawan", 
+    "desc": "Action movie", 
+    "poster": "https://example.com/poster2.jpg", 
+    "type": "hls", 
+    "url": "https://your-hls-link.m3u8" 
+  }
 }
