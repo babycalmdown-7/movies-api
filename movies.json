@@ -1,4 +1,4 @@
 {
-  "movie1": { "title": "Pushpa", "desc": "Fire hai", "poster": "link.jpg", "type": "embed", "url": "..." },
+  "101": { "title": "Mangalavaaram", "desc": "Maaya becomes the new sub-inspector of a village gripped by mysterious murders. But as she begins to investigate, she uncovers a web of dark truths and conspiracies.", "poster": "https://i.postimg.cc/j5qtGhsG/mangalavaaram-et00358028-1699603527.jpg", "type": "embed", "url": "https://www.youtube.com/embed/vyQa5s9Vnrg" },
   "movie2": { "title": "Jawan", "desc": "Action", "poster": "link2.jpg", "type": "hls", "url": "..." }
 }
