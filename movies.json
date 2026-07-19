@@ -1,0 +1,4 @@
+{
+  "movie1": { "title": "Pushpa", "desc": "Fire hai", "poster": "link.jpg", "type": "embed", "url": "..." },
+  "movie2": { "title": "Jawan", "desc": "Action", "poster": "link2.jpg", "type": "hls", "url": "..." }
+}
