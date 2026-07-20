@@ -6,11 +6,11 @@
     "type": "embed", 
     "url": "https://www.youtube.com/embed/vyQa5s9Vnrg" 
   },
-  "movie2": { 
-    "title": "Jawan", 
-    "desc": "Action movie", 
-    "poster": "https://example.com/poster2.jpg", 
-    "type": "hls", 
-    "url": "https://your-hls-link.m3u8" 
+  "102": { 
+    "title": "House Of The Dragon", 
+    "desc": "Sci-Fi & Fantasy, Drama, Action & Adventure", 
+    "poster": "https://i.postimg.cc/m2BYBbNZ/Screenshot-2026-07-20-08-16-10-03-99c04817c0de5652397fc8b56c3b3817.jpg", 
+    "type": "embed", 
+    "url": "https://cdn.mov2day.xyz/embed/tv/94997/3/5" 
   }
 }
