@@ -35,5 +35,39 @@
       { "title": "7. Sach Ki Talaash", "url": "https://player.vidzee.wtf/embed/tv/308053/1/7" },
       { "title": "8. Woh Tujhe Nahi Chhodega", "url": "https://player.vidzee.wtf/embed/tv/308053/1/8" }
     ] 
+  },
+  "105": {
+    "title": "House of the Dragon",
+    "desc": "Sci-Fi & Fantasy, Drama, Action & Adventure - An internal succession war within House Targaryen at the height of its power.",
+    "poster": "https://i.postimg.cc/m2BYBbNZ/Screenshot-2026-07-20-08-16-10-03-99c04817c0de5652397fc8b56c3b3817.jpg",
+    "type": "embed",
+    "episodes": [
+      { "title": "S1 E1: The Heirs of the Dragon", "url": "https://player.vidzee.wtf/embed/tv/94997/1/1" },
+      { "title": "S1 E2: The Rogue Prince", "url": "https://player.vidzee.wtf/embed/tv/94997/1/2" },
+      { "title": "S1 E3: Second of His Name", "url": "https://player.vidzee.wtf/embed/tv/94997/1/3" },
+      { "title": "S1 E4: King of the Narrow Sea", "url": "https://player.vidzee.wtf/embed/tv/94997/1/4" },
+      { "title": "S1 E5: We Light the Way", "url": "https://player.vidzee.wtf/embed/tv/94997/1/5" },
+      { "title": "S1 E6: The Princess and the Queen", "url": "https://player.vidzee.wtf/embed/tv/94997/1/6" },
+      { "title": "S1 E7: Driftmark", "url": "https://player.vidzee.wtf/embed/tv/94997/1/7" },
+      { "title": "S1 E8: The Lord of the Tides", "url": "https://player.vidzee.wtf/embed/tv/94997/1/8" },
+      { "title": "S1 E9: The Green Council", "url": "https://player.vidzee.wtf/embed/tv/94997/1/9" },
+      { "title": "S1 E10: The Black Queen", "url": "https://player.vidzee.wtf/embed/tv/94997/1/10" },
+      { "title": "S2 E1: A Son for a Son", "url": "https://player.vidzee.wtf/embed/tv/94997/2/1" },
+      { "title": "S2 E2: Rhaenyra the Cruel", "url": "https://player.vidzee.wtf/embed/tv/94997/2/2" },
+      { "title": "S2 E3: The Burning Mill", "url": "https://player.vidzee.wtf/embed/tv/94997/2/3" },
+      { "title": "S2 E4: The Red Dragon and the Gold", "url": "https://player.vidzee.wtf/embed/tv/94997/2/4" },
+      { "title": "S2 E5: Regent", "url": "https://player.vidzee.wtf/embed/tv/94997/2/5" },
+      { "title": "S2 E6: Smallfolk", "url": "https://player.vidzee.wtf/embed/tv/94997/2/6" },
+      { "title": "S2 E7: The Red Sowing", "url": "https://player.vidzee.wtf/embed/tv/94997/2/7" },
+      { "title": "S2 E8: The Queen Who Ever Was", "url": "https://player.vidzee.wtf/embed/tv/94997/2/8" },
+      { "title": "S3 E1: Salt and Sea, Fire and Blood", "url": "https://player.vidzee.wtf/embed/tv/94997/3/1" },
+      { "title": "S3 E2: Queen's Landing", "url": "https://player.vidzee.wtf/embed/tv/94997/3/2" },
+      { "title": "S3 E3: Rhaenyra Triumphant", "url": "https://player.vidzee.wtf/embed/tv/94997/3/3" },
+      { "title": "S3 E4: Tumbleton", "url": "https://player.vidzee.wtf/embed/tv/94997/3/4" },
+      { "title": "S3 E5: Unbowed and Unbent", "url": "https://player.vidzee.wtf/embed/tv/94997/3/5" },
+      { "title": "S3 E6: Episode 6", "url": "https://player.vidzee.wtf/embed/tv/94997/3/6" },
+      { "title": "S3 E7: Episode 7", "url": "https://player.vidzee.wtf/embed/tv/94997/3/7" },
+      { "title": "S3 E8: Episode 8", "url": "https://player.vidzee.wtf/embed/tv/94997/3/8" }
+    ]
   }
 }
