@@ -26,9 +26,14 @@
     "poster": "https://i.postimg.cc/FzKsQDwP/Screenshot-2026-07-25-13-18-52-90-680d03679600f7af0b4c700c6b270fe7.jpg", 
     "type": "embed", 
     "episodes": [
-      { "title": "Ep 1", "url": "https://player.vidzee.wtf/embed/tv/308053/1/1" },
-      { "title": "Ep 2", "url": "https://player.vidzee.wtf/embed/tv/308053/1/2" },
-      { "title": "Ep 3", "url": "https://player.vidzee.wtf/embed/tv/308053/1/3" }
+      { "title": "1. Ek Gehra Raaz", "url": "https://player.vidzee.wtf/embed/tv/308053/1/1" },
+      { "title": "2. Jaanoge Nahi To Maanoge Kaise", "url": "https://player.vidzee.wtf/embed/tv/308053/1/2" },
+      { "title": "3. Khauff Ki Dastak", "url": "https://player.vidzee.wtf/embed/tv/308053/1/3" },
+      { "title": "4. Ek Adhura Case", "url": "https://player.vidzee.wtf/embed/tv/308053/1/4" },
+      { "title": "5. Darr Ya Dare", "url": "https://player.vidzee.wtf/embed/tv/308053/1/5" },
+      { "title": "6. Wo Kaun Thee", "url": "https://player.vidzee.wtf/embed/tv/308053/1/6" },
+      { "title": "7. Sach Ki Talaash", "url": "https://player.vidzee.wtf/embed/tv/308053/1/7" },
+      { "title": "8. Woh Tujhe Nahi Chhodega", "url": "https://player.vidzee.wtf/embed/tv/308053/1/8" }
     ] 
   }
 }
