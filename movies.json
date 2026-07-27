@@ -84,5 +84,20 @@
       { "title": "6. Hush Little Baby", "url": "https://player.vidzee.wtf/embed/tv/201085/1/6" },
       { "title": "7. The Farewell", "url": "https://player.vidzee.wtf/embed/tv/201085/1/7" }
     ]
+  },
+  "107": {
+    "title": "Adarsh Baal Vidyalaya",
+    "desc": "A relaxed principal tries to reform a failing public school, triggering a messy transformation as misfit teachers work to repair the system one lesson at a time.",
+    "poster": "https://i.postimg.cc/4dQ0C7KL/5293eff48f4d67e36e8722d695ed5553e25ed88434661ec9ff17cb10e2ce975a.jpg",
+    "type": "embed",
+    "episodes": [
+      { "title": "1. Illiterate Goldy", "url": "https://player.vidzee.wtf/embed/tv/328402/1/1" },
+      { "title": "2. Ideal Role Model", "url": "https://player.vidzee.wtf/embed/tv/328402/1/2" },
+      { "title": "3. Teacher's Tribute", "url": "https://player.vidzee.wtf/embed/tv/328402/1/3" },
+      { "title": "4. Dear Daughter", "url": "https://player.vidzee.wtf/embed/tv/328402/1/4" },
+      { "title": "5. Child Safety", "url": "https://player.vidzee.wtf/embed/tv/328402/1/5" },
+      { "title": "6. Candle in the Wind", "url": "https://player.vidzee.wtf/embed/tv/328402/1/6" },
+      { "title": "7. Trial by Fire", "url": "https://player.vidzee.wtf/embed/tv/328402/1/7" }
+    ]
   }
 }
