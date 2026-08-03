@@ -20,27 +20,6 @@
     "type": "embed", 
     "url": "https://player.vidzee.wtf/embed/movie/1707620" 
   },
-   "109": { 
-    "title": "Tere Ishk Mein", 
-    "desc": "Tere Ishk Mein is an intense Hindi romantic drama directed by Aanand L. Rai. It stars Dhanush and Kriti Sanon. The film follows Shankar, a hot-headed student who falls in love with Mukti, a psychology PhD student studying human rage. Years later, they reunite after Shankar joins the Indian Air Force.", 
-    "poster": "https://i.postimg.cc/G2pVTx9L/tere-ishk-mein-et00362760-1764330456.jpg", 
-    "type": "embed", 
-    "url": "https://player.vidzee.wtf/embed/movie/1142921" 
-  },
-   "110": { 
-    "title": "Spider-Man: Brand New Day 2026", 
-    "desc": "Spider-Man: Brand New Day follows a lonely Peter Parker fighting crime full-time in a world that has forgotten him. As his old friends move on, the mounting pressure sparks a dangerous, uncontrollable change in his own body while a powerful new threat emerges in New York City.", 
-    "poster": "https://i.postimg.cc/13NpT9cg/ba42c810d0922d62128eb5859430d8a8.jpg", 
-    "type": "embed", 
-    "url": "https://vidup.to/movie/969681" 
-  },
-   "108": { 
-    "title": "Eesha Horror", 
-    "desc": "Eesha is a 2025 Telugu-language horror thriller film directed by Srinivas Manne, starring Thrigun and Hebah Patel. It follows four rationalist friends who run a channel to expose fake spiritual gurus and are challenged to spend three nights in a haunted location.", 
-    "poster": "https://i.postimg.cc/j2ZhHHfV/Screenshot-2026-07-28-10-27-20-84-99c04817c0de5652397fc8b56c3b3817.jpg", 
-    "type": "embed", 
-    "url": "https://player.vidzee.wtf/embed/movie/1601310" 
-  },
   "104": { 
     "title": "Bhay: The Gaurav Tiwari Mystery", 
     "desc": "Gaurav Tiwari, a paranormal investigator, faces his greatest challenge when his pursuit of the truth behind unexplained phenomena leads him into a deadly spiral. As his mysterious death leaves questions unanswered, a journalist delves into his eerie and celebrated legacy, unearthing secrets that blur the line between reality and the supernatural.", 
@@ -85,7 +64,7 @@
       { "title": "S3 E2: Queen's Landing", "url": "https://player.vidzee.wtf/embed/tv/94997/3/2" },
       { "title": "S3 E3: Rhaenyra Triumphant", "url": "https://player.vidzee.wtf/embed/tv/94997/3/3" },
       { "title": "S3 E4: Tumbleton", "url": "https://player.vidzee.wtf/embed/tv/94997/3/4" },
-      { "title": "S3 E5: Unbowed and Unbent", "url": "https://cdn.mov2day.xyz/embed/tv/94997/3/5" },
+      { "title": "S3 E5: Unbowed and Unbent", "url": "https://player.vidzee.wtf/embed/tv/94997/3/5" },
       { "title": "S3 E6: The Butcher's Ball", "url": "https://cdn.mov2day.xyz/embed/tv/94997/3/6" },
       { "title": "S3 E7: The Dragon in Winter", "url": "https://cdn.mov2day.xyz/embed/tv/94997/3/7" },
       { "title": "S3 E8: Episode 8", "url": "https://cdn.mov2day.xyz/embed/tv/94997/3/8" }
@@ -119,6 +98,56 @@
       { "title": "5. Child Safety", "url": "https://player.vidzee.wtf/embed/tv/328402/1/5" },
       { "title": "6. Candle in the Wind", "url": "https://player.vidzee.wtf/embed/tv/328402/1/6" },
       { "title": "7. Trial by Fire", "url": "https://player.vidzee.wtf/embed/tv/328402/1/7" }
+    ]
+  },
+  "108": {
+    "title": "WWE Rivals",
+    "desc": "A look at some of the greatest and most iconic rivalries in WWE history.",
+    "poster": "POSTER_LINK_HERE",
+    "type": "embed",
+    "episodes": [
+      { "title": "S1 E1: Bret \"The Hitman\" Hart vs. Shawn Michaels", "url": "https://player.videasy.net/tv/204381/1/1" },
+      { "title": "S1 E2: Undertaker vs. Kane", "url": "https://player.videasy.net/tv/204381/1/2" },
+      { "title": "S1 E3: \"Stone Cold\" Steve Austin vs. The Rock", "url": "https://player.videasy.net/tv/204381/1/3" },
+      { "title": "S1 E4: Brock Lesnar vs. Kurt Angle", "url": "https://player.videasy.net/tv/204381/1/4" },
+      { "title": "S1 E5: WWE vs. WCW", "url": "https://player.videasy.net/tv/204381/1/5" },
+      { "title": "S1 E6: Triple H vs. Mick Foley", "url": "https://player.videasy.net/tv/204381/1/6" },
+      { "title": "S1 E7: John Cena vs. Edge", "url": "https://player.videasy.net/tv/204381/1/7" },
+      { "title": "S1 E8: Rey Mysterio vs. Eddie Guerrero", "url": "https://player.videasy.net/tv/204381/1/8" },
+      { "title": "S1 E9: Stephanie McMahon vs. Brie Bella", "url": "https://player.videasy.net/tv/204381/1/9" },
+      { "title": "S2 E1: Hulk Hogan vs. Andre The Giant", "url": "https://player.videasy.net/tv/204381/2/1" },
+      { "title": "S2 E2: Undertaker vs. Mankind", "url": "https://player.videasy.net/tv/204381/2/2" },
+      { "title": "S2 E3: The Rock vs. John Cena", "url": "https://player.videasy.net/tv/204381/2/3" },
+      { "title": "S2 E4: Triple H vs. Batista", "url": "https://player.videasy.net/tv/204381/2/4" },
+      { "title": "S2 E5: Trish Stratus vs. Lita", "url": "https://player.videasy.net/tv/204381/2/5" },
+      { "title": "S2 E6: Brock Lesnar vs. Roman Reigns", "url": "https://player.videasy.net/tv/204381/2/6" },
+      { "title": "S2 E7: Undertaker vs. Randy Orton", "url": "https://player.videasy.net/tv/204381/2/7" },
+      { "title": "S2 E8: Hulk Hogan vs. \"Rowdy\" Roddy Piper", "url": "https://player.videasy.net/tv/204381/2/8" },
+      { "title": "S2 E9: \"Stone Cold\" Steve Austin vs. Bret Hart", "url": "https://player.videasy.net/tv/204381/2/9" },
+      { "title": "S2 E10: \"Stone Cold\" Steve Austin vs. Shawn Michaels", "url": "https://player.videasy.net/tv/204381/2/10" },
+      { "title": "S3 E1: Triple H vs. The Rock", "url": "https://player.videasy.net/tv/204381/3/1" },
+      { "title": "S3 E2: Jake \"The Snake\" Roberts vs. \"Macho Man\" Randy Savage", "url": "https://player.videasy.net/tv/204381/3/2" },
+      { "title": "S3 E3: Undertaker vs. Shawn Michaels", "url": "https://player.videasy.net/tv/204381/3/3" },
+      { "title": "S3 E4: John Cena vs. Randy Orton", "url": "https://player.videasy.net/tv/204381/3/4" },
+      { "title": "S3 E5: Hardy Boyz vs. Edge & Christian", "url": "https://player.videasy.net/tv/204381/3/5" },
+      { "title": "S3 E6: The Miz vs. Daniel Bryan", "url": "https://player.videasy.net/tv/204381/3/6" },
+      { "title": "S4 E1: Hulk Hogan vs. \"Macho Man\" Randy Savage", "url": "https://player.videasy.net/tv/204381/4/1" },
+      { "title": "S4 E2: \"Stone Cold\" Steve Austin vs. Booker T", "url": "https://player.videasy.net/tv/204381/4/2" },
+      { "title": "S4 E3: John Cena vs. Batista", "url": "https://player.videasy.net/tv/204381/4/3" },
+      { "title": "S4 E4: Triple H vs. Seth Rollins", "url": "https://player.videasy.net/tv/204381/4/4" },
+      { "title": "S4 E5: Ric Flair vs. Dusty Rhodes", "url": "https://player.videasy.net/tv/204381/4/5" },
+      { "title": "S4 E6: Hulk Hogan vs. The Rock", "url": "https://player.videasy.net/tv/204381/4/6" },
+      { "title": "S5 E1: \"Stone Cold\" Steve Austin vs. Undertaker", "url": "https://player.videasy.net/tv/204381/5/1" },
+      { "title": "S5 E2: \"Rowdy\" Roddy Piper vs. Mr. T", "url": "https://player.videasy.net/tv/204381/5/2" },
+      { "title": "S5 E3: Hulk Hogan vs. Ultimate Warrior", "url": "https://player.videasy.net/tv/204381/5/3" },
+      { "title": "S5 E4: Triple H vs. Shawn Michaels", "url": "https://player.videasy.net/tv/204381/5/4" },
+      { "title": "S5 E5: The Rock vs. Mick Foley", "url": "https://player.videasy.net/tv/204381/5/5" },
+      { "title": "S5 E6: Ric Flair vs. Ricky \"The Dragon\" Steamboat", "url": "https://player.videasy.net/tv/204381/5/6" },
+      { "title": "S5 E7: Shawn Michaels vs. Scott Hall", "url": "https://player.videasy.net/tv/204381/5/7" },
+      { "title": "S5 E8: Undertaker vs. Triple H", "url": "https://player.videasy.net/tv/204381/5/8" },
+      { "title": "S5 E9: Roman Reigns vs. Seth Rollins", "url": "https://player.videasy.net/tv/204381/5/9" },
+      { "title": "S5 E10: Ric Flair vs. Randy \"Macho Man\" Savage", "url": "https://player.videasy.net/tv/204381/5/10" },
+      { "title": "S5 E11: Charlotte Flair vs. Becky Lynch", "url": "https://player.videasy.net/tv/204381/5/11" }
     ]
   }
 }
